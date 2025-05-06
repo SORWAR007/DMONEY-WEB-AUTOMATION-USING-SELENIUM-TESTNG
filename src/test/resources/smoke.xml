@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<suite name="DAILYFINANCE AUTOMATION">
+    <test name="user login">
+        <group>
+            <run>
+                <includes name="smoke">
+
+                </includes>
+
+            </run>
+
+        </group>
+
+        <classes>
+
+            <class name="testrunner.Logintestrunner">
+
+            </class>
+        </classes>
+
+    </test>
+
+    <test name="user registration">
+
+        <group>
+            <run>
+                <includes name="smoke">
+
+                </includes>
+
+            </run>
+
+        </group>
+        <classes>
+
+            <class name="testrunner.Registrationtestrunner">
+
+            </class>
+        </classes>
+
+    </test>
+
+    <test name="add cost">
+        <group>
+            <run>
+                <includes name="smoke">
+
+                </includes>
+
+            </run>
+
+        </group>
+        <classes>
+            <class name="testrunner.Addcostrunner">
+            </class>
+        </classes>
+
+    </test>
+
+</suite>
