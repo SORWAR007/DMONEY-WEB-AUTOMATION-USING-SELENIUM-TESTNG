@@ -1,4 +1,4 @@
-## Dmoney-Web-Automation-using-selenium
+## DMONEY WEB AUTOMATION USING SELENIUM AND TESTNG
 - Selenium is a popular open-source tool used for automating web browsers, while TestNG is a testing framework that provides features like annotations, test organization, and parallel execution.
 ## TECHNOLOGY WE USED:
 - SELENIUM
